@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+
+    <string name="general_error">Error</string>
+
+    <string name="not_found">Not found</string>
+
+    <string name="token_expire_login_again">Token expire</string>
+
+    <string name="connection_error">connection Error</string>
+
+    <string name="timeout">Timeout</string>
+</resources>
